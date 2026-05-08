@@ -1,0 +1,6 @@
+{
+  "name": "ValoSensei",
+  "description": "AI-powered Valorant trainer that analyzes match history to provide personalized tactical insights and training plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
